@@ -1,0 +1,200 @@
+.font_style {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 36px;
+    line-height: 1;
+}
+
+.bg {
+    background-color: #ebebeb;
+}
+
+.main {
+    border-radius: 15px;
+}
+
+.heading {
+    font-size: clamp(18px, 2.5vw, 36px);
+    text-wrap: wrap;
+    font-size: 26px;
+    line-height: 1.4;
+    text-align: left;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.font_stylekl {
+    font-weight: bold;
+    color: black;
+}
+
+.para {
+    line-height: 1.6;
+    color: black;
+}
+
+.logo {
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.p-tag {
+    color: #B8FD51;
+    ;
+}
+
+.button_many {
+    height: 40px;
+    width: auto;
+    background-color: #B8FD51;
+    color: black;
+    border-radius: 10px;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.button_many {
+    padding: 10px 20px;
+    background-color: #B8FD51;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button_many:hover {
+    background-color: #A6E548;
+}
+
+
+.text-stylelo {
+
+    color: #A6E548;
+}
+
+.display-4 {
+    font-size: 2.5rem;
+    /* Adjust font size */
+    line-height: 1.3;
+}
+
+.paratwo {
+
+    letter-spacing: 2px;
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+
+.name {
+
+    color: white;
+    font-weight:300;
+}
+
+
+.one_text{
+     color: white;
+     font-weight: bold;
+     letter-spacing: 2px;
+     font-size: 22px;
+   
+}
+
+.buttont{
+    color: black;
+    background-color: #B8FD51;
+    border: 10px;
+    height: 40px;
+    width: auto;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.buttonk{
+    color: black;
+    background-color: #ffffff;
+    border: 10px;
+    height: 40px;
+    width: auto;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.button_btn{
+    color: black;
+    background-color: #B8FD51;
+    border: 10px;
+    height: 40px;
+    width: 100%;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.button_btn_one {
+    color: #fff; 
+    border: 1px solid #A6E548; 
+    background-color: #282828; 
+    height: 40px; 
+    width: 100%; 
+    border-radius: 3px;
+    font-size: 16px; 
+    box-sizing: border-box;
+}
+.loadmore {
+    color: #A6E548;
+    border: 1px solid #A6E548; 
+    background-color: #282828; 
+    height: 50px; 
+    width: auto; 
+    border-radius: 3px;
+    font-size: 16px; 
+    box-sizing: border-box;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+.text_change{
+     color: #B8FD51;
+     font-weight: bold;
+}
+
+.icon{
+     color: #A6E548;
+     font-weight: bold;
+}
+
+.text_box{
+
+    color: white;
+    text-align: right;
+}
+
+.img-rounded{
+     border-radius: 30px;
+}
+
+.text-brand{
+    text-transform: uppercase;
+    color: #B8FD51;
+    font-size: 20px;
+}
+.text-zo{
+    text-transform:capitalize;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.card{
+    background-color: #282828;
+    color: white;
+     border: none;
+}

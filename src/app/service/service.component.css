@@ -1,0 +1,36 @@
+.heading{
+     color:  white;
+     font-weight: bold;
+     font-size: clamp(18px, 2vw, 36px);
+     line-height: 20px;
+}
+.sub_heading{
+     color:  lightblue;
+}
+
+.card{
+     height: 300px;
+     width: 300px;
+     border-radius: 20px;
+     background-color: #B8FD51;
+}
+.card_font{
+     font-weight: bold;
+     color: black;
+     text-transform: capitalize;
+     font-size: 22px;
+     
+}
+.button_UI{
+     color: black ;
+     background-color: #B8FD51;
+     border: 10px;
+      height: 50px;
+ width: 100%;
+ border-radius: 8px;
+ font-weight: 500;
+}
+
+.font-weight{
+     font-weight: 500;
+}

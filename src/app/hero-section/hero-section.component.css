@@ -1,0 +1,144 @@
+.hero-section {
+    position: relative;
+    text-align: center;
+}
+
+.background-image {
+    width: 100%;
+    height: 553px;
+    object-fit: cover;
+}
+
+/* .h1_style {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(245, 71, 71);
+    font-size: 36px; 
+    text-align: center;
+    line-height: 1.4; 
+} */
+
+
+
+.p_style {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    
+}
+
+.buttonH {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Center the text over the image */
+    color: white;
+    /* Make the text color white (adjust as needed) */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    /* Add a shadow for better visibility */
+}
+
+.p_font {
+    text-transform: capitalize;
+    font-weight: 400;
+    color: lightblue;
+    letter-spacing: 2px;
+}
+
+.text_style1 {
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+    font-size: clamp(18px, 2vw, 36px);
+}
+
+mat-icon {
+    font-size: 2em;
+    vertical-align: middle;
+    color: white;
+}
+
+.bg-color {
+    background-color: #222222;
+    border-radius: 10px;
+}
+.btn {
+    color: black;
+    background-color: #B8FD51;
+    border: 10px;
+    height: auto;
+    width: auto;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background-color: #222222;
+    border: 10px;
+    height: auto;
+    width: auto;
+    border-radius: 3px;
+    font-size: 12px;
+    border: 1px solid white;
+
+
+}
+
+b{
+     color: #B8FD51;
+     font-weight: bold;
+    letter-spacing: 2px;
+}
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 400px; 
+    background-image: url('./../../assets/main/Group 222.svg'); 
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .centered-text p {
+    color: white;
+    font-size: 63px; 
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 8px;
+    line-height: 1;
+  }
+  
+
+  @media (max-width: 768px) {
+    .centered-text p {
+      font-size: 18px; line-height: 1.6;
+    }
+  }
+  @media (max-width: 768px) {
+    .p_style {
+       padding-bottom: 25px;
+    }
+  }
+  
+.Colorletteer{
+     color: #B8FD51;
+     font-weight: bold; line-height: 1;
+     letter-spacing: 2px;
+}

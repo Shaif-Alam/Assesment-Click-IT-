@@ -1,0 +1,112 @@
+.bg-color {
+    background-color: #2D2D2D;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: clamp(18px, 2.5vw, 36px);
+    text-wrap: wrap;
+    font-size: 36px;
+    line-height: 1.4;
+    text-align: left;
+    font-family: roboto;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: left;
+    margin-top: 20px;
+    letter-spacing: 2px;
+
+}
+
+.img_div {
+    border-radius: 520px;
+}
+
+.btn {
+    color: black;
+    background-color: #B8FD51;
+    border: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 8px;
+    font-weight: 500;
+    margin-top: 25px
+}
+
+.btn_two {
+    color: #B8FD51;
+    background-color: black;
+    height: 50px;
+    width: 150px;
+    border-radius: 8px;
+    font-size: 12px;
+    margin-top: 25px
+}
+
+img-fluid {
+    max-height: 80%;
+}
+
+.font_style_three {
+    font-weight: bold;
+    font-size: clamp(18px, 2.5vw, 36px);
+    letter-spacing: 2px;
+    line-height: 1.4;
+}
+
+
+.font_style_four {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+.custom-icon {
+    font-size: 250px;
+}
+
+.custom-icon {
+    font-size: 22px;
+    /* Increase icon size */
+    color: black;
+    /* Set icon color */
+}
+
+.bg-whites {
+    width: 80px;
+    /* Adjust size of the circle */
+    height: 80px;
+    /* Adjust height of the circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #B8FD51;
+    /* Apply the background color */
+}
+
+.font_style_five {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.img-rounded {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+.img-roundedb {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
